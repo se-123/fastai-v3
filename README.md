@@ -35,3 +35,6 @@ gibt es eine praktische Art "SVERWEIS" zu machen?
 app_view/index.html
 
 Überschrift der Website anpassen, Bild reinladen
+
+__Vorlage__
+https://github.com/science4performance/fastai-v3
