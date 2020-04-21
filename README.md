@@ -19,6 +19,8 @@ _______________________
 __dropbox__
 
 mein export.pkl auf dropbox legen und download link erzeugen (lin generator auf fast.ai/deployment_render)
+https://www.dropbox.com/s/sdh7c62d11v1seb/export.pkl?dl=0 - link direkt aus dropbox
+https://www.dropbox.com/s/sdh7c62d11v1seb/export.pkl?dl=1 - download link über https://syncwithtech.blogspot.com/p/direct-download-link-generator.html
 
 __render / github__
 
