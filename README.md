@@ -23,4 +23,15 @@ mein export.pkl auf dropbox legen und download link erzeugen (lin generator auf 
 __render / github__
 
 classes anpassen
-unter
+unter app/server.py download link von dropbox eintragen
+classes anpassen
+
+in line 64 return JSONresponse({'result': str(predicition)})
+probieren abhängig von der prediction noch mehr anzuzeigen
+a) Übersetzung
+b) Link
+gibt es eine praktische Art "SVERWEIS" zu machen?
+
+app_view/index.html
+
+Überschrift der Website anpassen, Bild reinladen
